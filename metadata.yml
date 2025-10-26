@@ -1,0 +1,12 @@
+---
+:id: 305710087
+:submitters:
+- :name: Blake Pingel
+  :email: bepingel@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-06 14:26:00.956704000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-06 06:26:00.956704000 Z
+:status: processed
+:score: 100.0
